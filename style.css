@@ -1,0 +1,29 @@
+.foot{
+    background-color:beige;
+}
+.head{
+    background-color:rgba(128, 0, 128, 0.685);
+}
+.un{
+    background-image: url('/img/Un\ site\ réaliser\ avec\ balsamiq\ \(2\).png');
+    opacity: 0.8;
+    
+}
+.deux{
+    background-image: url('/img/IMG_20220429_205219_454.jpg'); 
+
+}
+.trois{
+    background-image: url('/img/Je\ vais\ réaliser\ le\ design\ UI\ de\ votre\ site\ web\ avec\ Figma.png');
+
+}
+.yo{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+.sec1{
+    text-align: center;
+}
