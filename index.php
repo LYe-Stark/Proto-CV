@@ -65,7 +65,7 @@ require_once "header.php";
       </div>
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold lh-1 mb-3">Hello !!! I am <br>Paterne LALEYE</h1>
-        <p class="lead">Bienvenue à vous !!! Je me nomme Paterne LALEYE je suis jeune étudiant en Informatique. J'adore la technologie, et le design. Je suis la personne idéale quand il s'agit de réflechir pour trouver des réponses simples à des problemes complexes. Pour moi chaque jours est une leçon que l'on apprends..</p>
+        <p class="lead">Bienvenue à vous !!! Je me nomme Paterne LALEYE je suis Developpeur Web et Web designer. J'adore la technologie, et le design. Je suis la personne idéale quand il s'agit de réflechir pour trouver des réponses simples à des problemes complexes. Pour moi chaque jours est une leçon que l'on apprends..</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <a href="/realisation.php"><button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Mes Réalisations</button></a>
           <a href="/contact.php"><button type="button" class="btn btn-outline-secondary btn-lg px-4">Mon Contact</button></a>
