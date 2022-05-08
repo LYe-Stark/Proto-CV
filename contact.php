@@ -1,5 +1,6 @@
 
 <?php
+$title="Mon Contact";
 require_once "header.php";
 ?>
 
@@ -66,7 +67,7 @@ require_once "header.php";
   <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
     <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
       <h1 class="display-4 fw-bold lh-1">Mon Contact</h1><br>
-      <blockquote class="blockquote">
+     
 <pre><b><u>Nom</u>:</b> LALEYE</pre>
 <pre><b><u>Prénom</u>:</b> Baba-Tundé Paterne Jean-marcel</pre>
 <pre><b><u>Age</u>:</b> 19 ans</pre>
@@ -79,14 +80,19 @@ require_once "header.php";
   <path fill-rule="evenodd" d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293l6-6zm5-.793V6l-2-2V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5z"/>
   <path fill-rule="evenodd" d="M7.293 1.5a1 1 0 0 1 1.414 0l6.647 6.646a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708L7.293 1.5z"/>
 </svg></u>:</b> Calavi</pre>
-</blockquote>
+
       <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
  <a href="/index.php"> <button type="button" class="btn btn-outline-secondary btn-lg px-4">Retour</button></a>
        
       </div>
     </div>
+    <style>
+        img{
+            clip-path:ellipse(46% 50%);
+        }
+    </style>
     <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-    <img src="img/man.svg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+    <img src="img/me.jpeg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
     </div>
   </div>
 </div>

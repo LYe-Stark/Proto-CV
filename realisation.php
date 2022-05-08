@@ -1,4 +1,5 @@
 <?php
+$title="Mes réalisations";
 require_once "header.php";
 ?>
 <html lang="en">
@@ -9,7 +10,7 @@ require_once "header.php";
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
     <link rel="stylesheet" href="style.php">
-    <title>Jumbotron example · Bootstrap v5.1</title>
+    
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/jumbotron/">
 
