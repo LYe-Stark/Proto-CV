@@ -1,5 +1,6 @@
 
 <?php
+$title="About";
 require_once"header.php";
 ?>
 <!doctype html>
